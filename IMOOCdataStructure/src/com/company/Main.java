@@ -66,6 +66,12 @@ public class Main {
         return num;
 
     }
+
+
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
 class Stack{
 
@@ -95,3 +101,4 @@ class Stack{
         return size<0;
     }
 }
+
